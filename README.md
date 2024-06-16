@@ -5,11 +5,9 @@
         I'm Prathap.<br>
         An aspiring data professional with a relentless drive to learn and grow in the data field. I'm diving headfirst into data analysis, data science, and data engineering, even though my formal education wasn't in computer science or statistics. But guess what? That's not stopping me!.<br>
     </i><br>
-    <a href="https://avishek-choudhary.github.io/portfolio.html">    
-        <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
-    </a>
+       </a>
     <a href="https://www.linkedin.com/in/avishek-choudhary">
-        <img src="[https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue](https://www.linkedin.com/feed/)" alt="LinkedIn">
+        <img src="[[https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue](https://www.linkedin.com/feed/](https://www.linkedin.com/feed/))" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/avishekc09">
         <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
@@ -19,10 +17,6 @@
 
 ### Languages
 [![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/avishek09)
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/avishek09)
-[![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/avishek09)
-[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/avishek09)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/avishek09)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/avishek09)
 [![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash)](https://github.com/avishek09)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown)](https://github.com/avishek09)
@@ -34,9 +28,6 @@
 [![TENSOR FLOW](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/avishek09)
 [![KERAS](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/avishek09)
 
-### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/avishek09)
 
 ### Databases
 [![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
@@ -51,17 +42,7 @@
 ### Design
 [![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
 [![ADOBE LIGHTROOM](https://img.shields.io/badge/Adobe_Lightroom-black?style=for-the-badge&logo=Adobe%20Lightroom)](https://github.com/avishek09)
-[![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/avishek09)
-[![FIGMA](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://github.com/avishek09)
 
-### IDEs/Editors
-[![VS CODE](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
-[![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
-[![GOOGLE COLAB](https://img.shields.io/badge/Google_Colab-black?&style=for-the-badge&logo=Google-Colab)](https://github.com/avishek09)
-[![REPLIT](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=Replit)](https://github.com/avishek09)
-[![ATOM](https://img.shields.io/badge/Atom-black?style=for-the-badge&logo=atom)](https://github.com/avishek09)
-[![SUBLIME TEXT](https://img.shields.io/badge/Sublime_Text-black?style=for-the-badge&logo=sublime-text)](https://github.com/avishek09)
-[![CODEPEN](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen)](https://github.com/avishek09)
 
 ### Office Tools
 [![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/avishek09)
